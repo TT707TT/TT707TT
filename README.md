@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tricia
 
-<!--
-**TT707TT/TT707TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Data Science and Business Analytics candidate with a focus on business intelligence
+and predictive modelling. I work with `Python`, `SQL`, `Tableau`,
+and `R` to turn messy data into decisions.
 
-Here are some ideas to get you started:
+**Skills:** Python · Tableau · R · SAS · Machine Learning · EDA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### 🎮 Player churn prediction dashboard
+Compared Logistic Regression, Random Forest, and Gradient Boosting for
+player churn prediction. Deployed the final model as an interactive 
+Streamlit dashboard with real-time what-if scoring and adjustable risk thresholds.
+`Python` `scikit-learn` `Streamlit` `Classification`
+
+### 🎵 Spotify content strategy analysis
+Exploratory analysis of Spotify catalogue data to surface content
+strategy insights, presented as a Tableau storyboard with supporting
+Python EDA.
+`Tableau` `Python` `EDA` `Business Intelligence`
+
+### 🚗 Auto-insurance claim prediction
+Machine learning approach to binary claim prediction. Compared
+multiple classifiers, tuned hyperparameters, and evaluated model
+performance with precision–recall tradeoffs.
+`Python` `scikit-learn` `Machine Learning`
+
+---
+
+## Currently
+Graduating by end of August 2026 · Open to BI Analyst and Data Analyst roles

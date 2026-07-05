@@ -15,6 +15,7 @@ Compared Logistic Regression, Random Forest, and Gradient Boosting for
 player churn prediction. Deployed the final model as an interactive 
 Streamlit dashboard with real-time what-if scoring and adjustable risk thresholds.
 `Python` `scikit-learn` `Streamlit` `Classification`
+*In progress — available August 2026*
 
 ### 🏎️ [F1 performance & investment analysis](https://github.com/TT707TT/f1-strategy-analysis)
 SQL analysis of 70+ years of Formula 1 data, framed as a constructor

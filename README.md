@@ -28,6 +28,13 @@ multiple classifiers, tuned hyperparameters, and evaluated model
 performance with precision–recall tradeoffs.
 `Python` `scikit-learn` `Machine Learning`
 
+### 🏎️ [F1 performance & investment analysis](https://github.com/TT707TT/f1-strategy-analysis)
+SQL analysis of 70+ years of Formula 1 data, framed as a constructor
+strategy/commercial team scenario. Covers driver and team performance
+(reliability, pit strategy, race-craft) and value/investment questions
+(undervalued talent, consistency vs. volatility, contract risk),
+using CTEs, window functions, and conditional aggregation.
+`SQL` `SQLite` `Business Intelligence`
 ---
 
 ## Currently

@@ -10,12 +10,13 @@ and `R` to turn messy data into decisions.
 
 ## Projects
 
-### 🎮 Player churn prediction dashboard
-Compared Logistic Regression, Random Forest, and Gradient Boosting for
-player churn prediction. Deployed the final model as an interactive 
-Streamlit dashboard with real-time what-if scoring and adjustable risk thresholds.
+### 🎮 [Player churn prediction dashboard](https://github.com/TT707TT/player-churn-prediction)
+End-to-end churn-risk prediction pipeline on 40,034 player records. Compared Logistic 
+Regression, Random Forest, and Gradient Boosting。 Selected Gradient Boosting for best 
+precision-recall stability (ROC-AUC 0.938, F1 0.894). Deployed as an interactive 
+Streamlit dashboard with adjustable risk thresholds, segment-level risk explorer, and 
+real-time what-if scoring.
 `Python` `scikit-learn` `Streamlit` `Classification`
-*In progress — available August 2026*
 
 ### 🏎️ [F1 performance & investment analysis](https://github.com/TT707TT/f1-strategy-analysis)
 SQL analysis of 70+ years of Formula 1 data, framed as a constructor

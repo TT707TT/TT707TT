@@ -39,6 +39,3 @@ performance with precision–recall tradeoffs.
 `Python` `scikit-learn` `Machine Learning`
 
 ---
-
-## Currently
-Graduating by end of August 2026 · Open to BI Analyst and Data Analyst roles
